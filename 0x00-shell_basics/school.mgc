@@ -1,2 +1,2 @@
-0 string SCHOOL school.mgc
-!:mime School
+0 string /temp/school.mgc
+!:mime text /temp/school.mgc
